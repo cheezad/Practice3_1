@@ -1,0 +1,10 @@
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\bin\Debug\Practice3_1.exe.config
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\bin\Debug\Practice3_1.exe
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\bin\Debug\Practice3_1.pdb
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.csprojAssemblyReference.cache
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.Form1.resources
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.Properties.Resources.resources
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.csproj.GenerateResource.cache
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.csproj.CoreCompileInputs.cache
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.exe
+C:\Users\易子捷\OneDrive\桌面\C#\1110930_stu_doc\Practice3_1\Practice3_1\obj\Debug\Practice3_1.pdb
